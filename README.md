@@ -17,7 +17,7 @@ Highload Course. Ex 24
 
 3. Логи
 
-![3.png](resources/2.1.png)
+![3.png](resources/3.png)
 
 4. Логфайли з різних іп
 ![4.1.png](resources/4.1.png)
